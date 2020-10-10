@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/green"
+    tools:context=".RankActivity">
+    <ImageView
+        android:id="@+id/quayve"
+        android:background="@drawable/btn_back"
+        android:layout_width="60dp"
+        android:layout_height="40dp"/>
+    <TextView
+        android:background="@drawable/btn_play"
+        android:textSize="20sp"
+        android:textColor="@color/red"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:text="Bảng xếp hạng"
+        android:layout_width="200dp"
+        android:layout_height="50dp"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_margin="20dp"
+        android:background="@drawable/button_style"
+        android:id="@+id/recycle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

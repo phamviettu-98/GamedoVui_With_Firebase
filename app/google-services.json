@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764844566115",
+    "firebase_url": "https://gamedovui-94668.firebaseio.com",
+    "project_id": "gamedovui-94668",
+    "storage_bucket": "gamedovui-94668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764844566115:android:b66080fac92cdf244d3a56",
+        "android_client_info": {
+          "package_name": "viettu.pvt.gamedovui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764844566115-ap9nnmg82fas8hrvoqnlh82b01s4cjs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLw2BNaswoqV5A9ejWD2Mf5HRVQfwuWr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764844566115-ap9nnmg82fas8hrvoqnlh82b01s4cjs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
